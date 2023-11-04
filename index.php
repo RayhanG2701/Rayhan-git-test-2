@@ -10,5 +10,9 @@
     <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, optio unde! Rerum provident mollitia sequi quo nesciunt, sed possimus voluptatem nisi accusantium nemo alias quibusdam dolore odio quidem, enim officiis!
     </p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 </html>
